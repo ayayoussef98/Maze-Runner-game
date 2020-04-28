@@ -45,7 +45,6 @@ import sun.audio.ContinuousAudioDataStream;
 
 /**
  *
- * @author Monkia
  */
 public class Panel extends JPanel implements KeyListener {
 
