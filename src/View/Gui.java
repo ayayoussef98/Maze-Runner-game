@@ -27,7 +27,6 @@ import sun.audio.AudioStream;
 
 /**
  *
- * @author Monkia
  */
 public class Gui extends javax.swing.JFrame implements ActionListener {
 
