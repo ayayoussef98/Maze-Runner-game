@@ -9,7 +9,6 @@ import java.util.Random;
 
 /**
  *
- * @author Monkia
  */
 public class bomb {
     static int dimensions;
