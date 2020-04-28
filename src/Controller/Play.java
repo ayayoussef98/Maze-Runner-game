@@ -9,7 +9,6 @@ import Model.Player;
 
 /**
  *
- * @author Ayah Soffar
  */
 public class Play implements State{
 
