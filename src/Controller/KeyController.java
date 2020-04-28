@@ -12,7 +12,6 @@ import java.awt.event.KeyListener;
 
 /**
  *
- * @author Monkia
  */
 public class KeyController implements KeyListener {
 
