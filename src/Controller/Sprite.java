@@ -9,7 +9,6 @@ import java.awt.image.BufferedImage;
 
 /**
  *
- * @author Ayah Soffar
  */
 public class Sprite {
         public BufferedImage sprite;
