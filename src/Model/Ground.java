@@ -9,7 +9,6 @@ import java.awt.Graphics;
 
 /**
  *
- * @author Monkia
  */
 public class Ground {
    public int xGround;
