@@ -10,7 +10,6 @@ import javax.swing.ImageIcon;
 
 /**
  *
- * @author Monkia
  */
 public class ScoreBomb extends bomb {
     Player p=Player.getInstance();
