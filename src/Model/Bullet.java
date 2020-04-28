@@ -10,7 +10,6 @@ import javax.swing.ImageIcon;
 
 /**
  *
- * @author Ayah Soffar
  */
 public class Bullet {
     private int xBullet;
