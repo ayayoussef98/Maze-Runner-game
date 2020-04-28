@@ -7,7 +7,6 @@ package Controller;
 
 /**
  *
- * @author Ayah Soffar
  */
 public interface Observer {
      public abstract void update();
