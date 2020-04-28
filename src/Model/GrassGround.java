@@ -10,7 +10,6 @@ import javax.swing.ImageIcon;
 
 /**
  *
- * @author Monkia
  */
 public class GrassGround extends Ground{
    public void draw(Graphics g)
