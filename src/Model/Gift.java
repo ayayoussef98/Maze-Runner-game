@@ -7,7 +7,6 @@ package Model;
 
 /**
  *
- * @author Monkia
  */
 public class Gift {
     public int xGift;
