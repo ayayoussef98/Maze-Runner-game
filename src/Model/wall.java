@@ -10,7 +10,6 @@ import java.awt.Graphics;
 
 /**
  *
- * @author Monkia
  */
 public class wall {
 
