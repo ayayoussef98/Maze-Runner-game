@@ -10,7 +10,6 @@ import java.util.List;
 
 /**
  *
- * @author Ayah Soffar
  */
 public class Subject {
     private List<Observer> observers=new ArrayList<Observer>();
