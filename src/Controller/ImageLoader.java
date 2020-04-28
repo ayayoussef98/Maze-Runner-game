@@ -12,7 +12,6 @@ import javax.imageio.ImageIO;
 
 /**
  *
- * @author Ayah Soffar
  */
 public class ImageLoader {
       public BufferedImage loadImage(String path) throws IOException{
