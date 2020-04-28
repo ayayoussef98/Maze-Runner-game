@@ -7,7 +7,6 @@ package Model;
 
 /**
  *
- * @author Monkia
  */
 public class Factory {
     public wall getWall(String wallName)
