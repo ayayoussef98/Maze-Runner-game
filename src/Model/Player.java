@@ -20,7 +20,6 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Monkia
  */
 public class Player {
     private int xPlayer;
