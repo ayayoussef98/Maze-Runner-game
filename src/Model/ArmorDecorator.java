@@ -10,7 +10,6 @@ import javax.swing.ImageIcon;
 
 /**
  *
- * @author Monkia
  */
 public class ArmorDecorator extends Player {
     public void draw(Graphics g)
