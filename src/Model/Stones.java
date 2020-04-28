@@ -12,7 +12,6 @@ import javax.swing.ImageIcon;
 
 /**
  *
- * @author Monkia
  */
 public class Stones extends wall{
    
