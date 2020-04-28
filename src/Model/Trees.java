@@ -10,7 +10,6 @@ import javax.swing.ImageIcon;
 
 /**
  *
- * @author Monkia
  */
 public class Trees extends wall{
     public void draw(Graphics g)
