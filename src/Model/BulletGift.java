@@ -10,7 +10,6 @@ import javax.swing.ImageIcon;
 
 /**
  *
- * @author Monkia
  */
 public class BulletGift extends Gift{
   Player p=Player.getInstance();
